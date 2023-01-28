@@ -1,12 +1,11 @@
 # Hi there 👋
 
 - 🔭 I’m currently updating [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
-    - I originally made this site while attending Denver University's Full Stack Web Development program.  
-    - [Coded] in Node.js.  
+    I originally made this site while attending Denver University's Full Stack Web Development program.  
+    -[Coded] in Node.js.  
 
-- ⚡ Fun fact: How to make your own Raspberry Pi powered Tv Fish Tank!  
-    - TvTanks.com [website]
-    - TvTanks.com [GitHub repository]
+- ⚡ Fun fact: How to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]  
+    -TvTanks.com [GitHub repository]  
 
   <!--
   **martinvicknair/martinvicknair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +24,5 @@ Here are some ideas to get you started:
 
 [Summer Food Rocks!]: https://summerfoodrocks.org
 [Coded]: https://github.com/martinvicknair/summerfoodrocks-node
-[website]: https://tvtanks.com
+[TvTanks.com]: https://tvtanks.com
 [GitHub repository]: https://github.com/martinvicknair/tvtanks.com
