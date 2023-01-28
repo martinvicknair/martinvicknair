@@ -1,6 +1,6 @@
 # Hi there 👋
 
-   I'm Martin Vicknair, a Technical Support Advisor for [phoneburner.com] 🔥 with a passion for helping people.  
+   I'm Martin Vicknair, a Technical Support Advisor for [PhoneBurner.com] 🔥 with a passion for helping people.  
 🚀 Keep your business running smoothly with expert support!
 
 - 🔭 I’m currently updating: [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
