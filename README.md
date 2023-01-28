@@ -4,7 +4,7 @@
     I originally made this site while attending Denver University's Full Stack Web Development program.  
     -[Coded] in Node.js.  
 
-- ⚡ Fun fact: How to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]  
+- ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]!  
     -TvTanks.com [GitHub repository]  
 
   <!--
