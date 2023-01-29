@@ -3,7 +3,7 @@
  I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com] 🔥.
 
 - 🚀 I’m currently updating: [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
-    -Updated yearly, utilizes APIs from ArcGIS and Google Maps to return the nearest available Free Meals site each summer. [Coded] in Node.js, JavScript, & Handlebars.js.  
+    -Updated yearly, it utilizes APIs from ArcGIS and Google Maps to return the nearest available Free Meals site each summer. [Coded] in Node.js, JavScript, & Handlebars.js.  
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
     -TvTanks.com [GitHub repository]  
