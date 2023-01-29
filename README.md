@@ -1,9 +1,9 @@
 # Hi there 👋
 
-🚀 I'm Martin Vicknair, a Technical Support Advisor for [PhoneBurner.com] 🔥 with a passion for helping people.  
+ I'm Martin Vicknair, a Technical Support Advisor for [PhoneBurner.com] 🔥.
 
-- 🔭 I’m currently updating: [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
-    I originally made this site while attending Denver University's Full Stack Web Development program.  
+- 🚀 I’m currently updating: [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
+    -I originally made this site while attending Denver University's Full Stack Web Development program.  
     -[Coded] in Node.js.  
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
