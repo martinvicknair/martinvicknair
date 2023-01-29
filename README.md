@@ -2,8 +2,12 @@
 
  I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com] 🔥.
 
-- 🚀 I’m currently updating: [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
-    -Updated yearly, it utilizes APIs from ArcGIS and Google Maps to return the nearest available Free Meals site each summer. [Coded] in Node.js, JavScript, & Handlebars.js.  
+- 🚀 I’m often working on updating [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program.  
+
+     -This mapping tool allows users to enter an address, city, or zip code to find nearby locations. Results include the address, days and hours of operation, contact information, and directions. [Coded] in Node.js. 
+
+     -The Summer Food Service Program (SFSP) ensures that low-income children continue to receive nutritious meals when school is not in session. Each summer, the SFSP program serves more than 200 million free meals to children 18 years and under at approved sites.  
+     -To learn more about the Summer Food Service Program please visit [http://www.fns.usda.gov/sfsp].
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
     -TvTanks.com [GitHub repository]  
@@ -28,6 +32,7 @@ Here are some ideas to get you started:
 [phoneburner.com]: https://phoneburner.com
 [Summer Food Rocks!]: https://summerfoodrocks.org
 [Coded]: https://github.com/martinvicknair/summerfoodrocks-node
+[http://www.fns.usda.gov/sfsp]: http://www.fns.usda.gov/sfsp
 [TvTanks.com]: https://tvtanks.com
 [GitHub repository]: https://github.com/martinvicknair/tvtanks.com
-[martinv.io]: https://martinv.io
+[martinv.io]: https://martinv.i
