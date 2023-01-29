@@ -2,7 +2,7 @@
 
  I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com] 🔥.
 
-- 🚀 I’m often working on updating [Summer Food Rocks!], a sitefinder for the USDA Summer Food Service Program. Also included is a meal counting application to replace the paper forms.   
+- 🚀 I’m often working on updating [Summer Food Rocks!], a site finder for the USDA Summer Food Service Program. Also included is a meal counting application to replace the paper forms.   
 
      -This mapping tool allows users to enter an address, city, or zip code to find nearby locations. Results include the address, days and hours of operation, contact information, and directions. [Coded] in Node.js. 
 
