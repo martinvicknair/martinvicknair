@@ -12,7 +12,12 @@
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
     -TvTanks.com [GitHub repository]  
     
-- 🌎 Everything else: [martinv.io]
+- 🌎 Everything else: [martinv.io]  
+
+💲 Use my [referral link] and receive a $200, 60-day account credit when signing up for DigitalOcean.  
+
+   [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a909a04f3d01&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 
   <!--
   **martinvicknair/martinvicknair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +40,5 @@ Here are some ideas to get you started:
 [http://www.fns.usda.gov/sfsp]: http://www.fns.usda.gov/sfsp
 [TvTanks.com]: https://tvtanks.com
 [GitHub repository]: https://github.com/martinvicknair/tvtanks.com
-[martinv.io]: https://martinv.i
+[martinv.io]: https://martinv.io
+[referral link]: https://www.digitalocean.com/?refcode=a909a04f3d01&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge
