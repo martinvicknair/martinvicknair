@@ -12,8 +12,8 @@
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
     TvTanks.com [GitHub repository]  
     
-- 🌎 Everything else: [martinv.io]
-- :mexico: Real de Catorce, Mexico: [realde14.net]
+-  Everything else: [martinv.io]
+- 🌎 Real de Catorce, Mexico Photos: [realde14.net]
 
 ---
 
