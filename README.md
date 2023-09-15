@@ -13,8 +13,7 @@
     TvTanks.com [GitHub repository]  
 - 🌎 Real de Catorce, Mexico Photos: [realde14.net]
   
-- ![image](https://github.com/martinvicknair/martinvicknair/assets/32040730/bb349d5e-3c38-4b23-9fa5-974e2693f122)
- Everything else: [martinv.io]
+- ![avatar](https://github.com/martinvicknair/martinvicknair/assets/32040730/bb349d5e-3c38-4b23-9fa5-974e2693f122) Everything else: [martinv.io]
 
 ---
 
