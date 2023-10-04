@@ -12,7 +12,7 @@
      To learn more about the Summer Food Service Program please visit [http://www.fns.usda.gov/sfsp].
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
-- 🌵 Real de Catorce, Mexico: [realde14.net]
+- 🌵 Real de Catorce, Mexico: [realde14.com]
   
 - 🌎 Everything else: [martinv.io]
 
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 [http://www.fns.usda.gov/sfsp]: http://www.fns.usda.gov/sfsp
 [TvTanks.com]: https://tvtanks.com
 [GitHub repository]: https://github.com/martinvicknair/tvtanks.com
-[martinv.io]: https://martinv.io
+[martinv.io]: https://www.martinv.io
 [referral link]: https://www.digitalocean.com/?refcode=a909a04f3d01&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge
-[realde14.net]: https://realde14.net
+[realde14.com]: https://www.realde14.com
