@@ -6,7 +6,7 @@
 
 - 🚀 I’m often working on updating [Summer Food Rocks!], a site finder for the USDA Summer Food Service Program. Also included is a meal counting application to replace the paper forms.   
 
-     This mapping tool allows users to enter an address, city, or zip code to find nearby locations. Results include the address, days and hours of operation, contact information, and directions. [Coded] in Node.js. 
+     This mapping tool allows users to enter an address, city, or zip code to find nearby locations. [Coded] in Node.js. 
 
      The Summer Food Service Program (SFSP) ensures that low-income children continue to receive nutritious meals when school is not in session. Each summer, the SFSP program serves more than 200 million free meals to children 18 years and under at approved sites.  
 
