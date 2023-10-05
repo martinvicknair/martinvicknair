@@ -9,12 +9,12 @@
      This mapping tool allows users to enter an address, city, or zip code to find nearby locations. Results include the address, days and hours of operation, contact information, and directions. [Coded] in Node.js. 
 
      The Summer Food Service Program (SFSP) ensures that low-income children continue to receive nutritious meals when school is not in session. Each summer, the SFSP program serves more than 200 million free meals to children 18 years and under at approved sites.  
-     To learn more about the Summer Food Service Program please visit [http://www.fns.usda.gov/sfsp].
 
-- ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟  
-- 🌵 Real de Catorce, Mexico: [realde14.com]
+- ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟
+- 
+- 🌵 Real de Catorce, Mexico: [realde14.com]  
   
-- 🌎 Everything else: [martinv.io]
+- 🌎 Everything else: [martinv.io]  
 
 ---
 
