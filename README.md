@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-[phoneburner.com]: https://phoneburner.com
-[Summer Food Rocks!]: https://summerfoodrocks.org
+[phoneburner.com]: https://www.phoneburner.com
+[Summer Food Rocks!]: https://www.summerfoodrocks.org
 [Coded]: https://github.com/martinvicknair/summerfoodrocks-node
 [http://www.fns.usda.gov/sfsp]: http://www.fns.usda.gov/sfsp
 [TvTanks.com]: https://tvtanks.com
