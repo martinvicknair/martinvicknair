@@ -1,8 +1,8 @@
 # Hi there 👋
 
- <img src="https://github.com/martinvicknair/martinvicknair/assets/32040730/d5f1da62-abcb-4aa3-9c71-15471e67dacc"  width="22" height="21"> I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com]. 
+I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com]. <img src="https://github.com/martinvicknair/martinvicknair/assets/32040730/d5f1da62-abcb-4aa3-9c71-15471e67dacc"  width="22" height="21">  
  
- Some of the web projects I'm tinkering with:
+ Some of the web projects I'm tinkering with:  
 
 - 🚀 I’m often working on updating [Summer Food Rocks!], a site finder for the USDA Summer Food Service Program. Also included is a meal counting application to replace the paper forms.   
 
