@@ -1,6 +1,7 @@
 # Hi there 👋
 
- I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com] 🔥.  
+ I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com] 🔥 ![image](https://github.com/martinvicknair/martinvicknair/assets/32040730/d5f1da62-abcb-4aa3-9c71-15471e67dacc)
+.  
  
  Some of the web projects I'm tinkering with:
 
