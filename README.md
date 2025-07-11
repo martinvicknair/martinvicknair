@@ -4,11 +4,7 @@ I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com]. <i
  
  Some of the web projects I'm tinkering with:  
 
-- 🚀 I’m often working on updating [Summer Food Rocks!], a site finder for the USDA Summer Food Service Program. Also included is a meal counting application to replace the paper forms.   
-
-     This mapping tool allows users to enter an address, city, or zip code to find nearby summer meal locations. [Coded] in Node.js. 
-
-     The Summer Food Service Program (SFSP) ensures that low-income children continue to receive nutritious meals when school is not in session. Each summer, the SFSP program serves more than 200 million free meals to children 18 years and under at approved sites.  
+- 🚀 I'm currently working on a wordpress plugin to automatically post my personal weather station data to the Bluesky social network. 
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟
  
