@@ -8,7 +8,7 @@ I'm Martin Vicknair, a Senior Solutions Support Advisor at [PhoneBurner.com]. <i
 
 - ⚡ Fun fact: Learn how to make your own Raspberry Pi powered Tv Fish Tank at [TvTanks.com]! 🐟
  
-- 🌵 Real de Catorce, Mexico: [realde14.com]  
+- 🌵 A light-heated look at Real de Catorce, Mexico: [realde14.com]  
   
 - 🌎 Everything else: [martinv.io]  
 
